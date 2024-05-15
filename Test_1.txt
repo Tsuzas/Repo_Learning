@@ -20,3 +20,11 @@ Okayy, third times the charm ay , didn't add time the previous time feels bad
 No more cool facts, just gonna try to commit the fourth time and see if I do it without any problemos
 
 -- 20:47
+
+Lovely without any issues didnt even stutter
+git add Test_1
+git status
+git commit -m "Funny text"
+Git push
+
+-- 20:50
