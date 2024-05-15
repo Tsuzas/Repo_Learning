@@ -2,6 +2,16 @@ Funny text
 
 This is the first update of push to Git -- 20:16
 
+---
+
 This is the second update of push to git -- 20:31
 So heres a little fact: The dot over the letter "i" is called a tittle.
 
+---
+
+This is the third commit, still super rusty, so I will keep track of the times im commiting, this second time there were a lot of mistakes, kinda sucks.
+Do I write another fun fact ?
+
+> The word "nerd" was first coined by Dr. Seuss in his book "If I Ran the Zoo" in 1950.
+
+---
